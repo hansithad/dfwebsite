@@ -95,12 +95,13 @@ const useStyles = makeStyles(theme => ({
   },
   logoImage: {
     objectFit: 'cover',
-    width: '100%',
+    width: '240px',
     height: '100%',
   },
   darkLogoImage: {
-    width: '100%',
-    height: '95%',
+    width: '240px',
+    height: '100%',
+    objectFit: 'cover',
     filter: 'invert(100%)',
   },
   menu: {

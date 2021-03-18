@@ -57,7 +57,7 @@ const useStyles = makeStyles(theme => ({
     }
   },
   imageAnimationDark: {
-    background: `url("https://assets.maccarianagency.com/the-front/web-screens/home/home-hero-bg-dark.png")`,
+    background: `url("https://www.cobry.co.uk/wp-content/uploads/2020/10/Google-Workspace.png ")`,
   },
   '@keyframes slideshow': {
     '0%': {
